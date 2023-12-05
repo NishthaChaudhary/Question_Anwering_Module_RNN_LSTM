@@ -1,7 +1,7 @@
 # Question_Anwering_Module
 
 The focus in this project is Question Answering: answering a question based on the number of facts. This project will involve using memories: facts that are already stated are stored in memory, and the question refers to past information to produce an answer. I will demonstrate this using different approaches: “flat memory” approach: RNN and LTSM; and “responsive memory” approach: end-to-end memory. 
-These approaches will teach a machine to associate answers to questions irrespective of having several irrelevant facts/stories in between the question and the relevant fact. 
+These approaches will teach a machine to associate answers to questions irrespective of having several irrelevant facts/stories in between the question and the relevant fact.  
 
 # Abstract:
 As my project involves textual data (Facts & Questions) that will have different lengths each time; and use memory of the past facts. I will implement deep learning models.
