@@ -11,7 +11,7 @@
 11 Daniel travelled to the office.
 12 Where is Daniel? 	office	11
 13 John went back to the garden.
-14 John moved to the bedroom.
+14 John moved to  the bedroom.
 15 Where is Sandra? 	bathroom	8
 1 Sandra travelled to the office.
 2 Sandra went to the bathroom.
