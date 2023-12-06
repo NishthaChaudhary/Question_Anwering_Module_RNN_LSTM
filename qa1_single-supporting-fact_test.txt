@@ -26,7 +26,7 @@
 11 John moved to the hallway.
 12 Where is Sandra? 	office	7
 13 John travelled to the bathroom.
-14 John journeyed to the office.
+14 John journeyed to  the office.
 15 Where is Daniel? 	office	10
 1 John travelled to the office.
 2 Mary journeyed to the kitchen.
